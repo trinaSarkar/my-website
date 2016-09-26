@@ -1,8 +1,0 @@
-{
-  "galaxy.meteor.com": { 
-     "env": { 
-       "ROOT_URL": "http://trinasarkar.com", 
-       "MONGO_URL": "mongodb://trinasarkar:Mowalina1%@ds041536.mlab.com:41536/trinasarkar" 
-     } 
-   }
-}
