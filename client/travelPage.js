@@ -1,7 +1,7 @@
 var slideIndex = 0; 
-Template.travelPage.rendered = function() {
+$(document).ready(function() {
      carousel(); 
-}
+});
 
 var carousel = function() {
     var i;
