@@ -1,9 +1,7 @@
 var slideIndex = 0; 
-Template.dancePage.rendered = function() {
-	
-	 carousel(); 
-}
-
+$(document).ready(function() {
+     carousel(); 
+});
 var carousel = function() {
     var i;
     var x = document.getElementsByClassName("danceSlides");
