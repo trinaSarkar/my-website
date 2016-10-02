@@ -3,7 +3,6 @@ $(document).ready(function() {
      carousel(); 
 });
 var carousel = function() {
-    console.log("hi")
     var i;
     var x = document.getElementsByClassName("danceSlides");
     for (i = 0; i < x.length; i++) {
